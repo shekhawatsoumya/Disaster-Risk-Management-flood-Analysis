@@ -31,8 +31,3 @@ This project analyzes flood disaster risk using Excel-based data preparation and
 - High-risk zones mapped using conditional formatting and pivot charts.
 - Recommendations for disaster risk reduction include stronger early warning, improved drainage, and targeted community resilience.
 
-## Project Structure
-- `Raw Data/` - Original downloaded dataset files.
-- `Clean Data/` - Cleaned dataset ready for analysis.
-- `Result/` - Analysis outputs, graphs, and final summary.
-- `README.md` - Project documentation.
