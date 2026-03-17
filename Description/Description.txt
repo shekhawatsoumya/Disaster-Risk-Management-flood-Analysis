@@ -1,0 +1,15 @@
+Disaster Risk Management (flood) Summary :
+This Disaster Risk Management (flood) Dashboard provides a high-level overview of flood-related metrics and risk factors across 155 total catchments.
+
+Key Metrics & Risk Indicators
+The top section displays several critical averages:
+Population at Risk: Over 10.4 billion (representing the cumulative population across multiple analysis points).
+Average Flood Risk: 0.0000026437227 (indexed value).
+Relief & Drainage: Values for Average Relief Ratio and Drainage provide a baseline for physical landscape susceptibility.
+
+Impact Factors
+The dashboard visualizes how different environmental and social factors contribute to risk:
+Soil Type Impact: Cambisols show the highest "Average of Flood Risk Index," followed by Acrisols and Leptosols. Conversely, Fluvisols show minimal relative impact.
+Land Cover Impact: Cropland is associated with the highest average drainage density, suggesting agricultural areas may be more prone to runoff issues than forested regions.
+Population Exposure: A pie chart breaks down exposure levels, showing that a significant portion of the population falls into the Low risk category (88), while 29 are in the Medium and 13 are in the High risk categories.
+Basin Size: Risk is heavily concentrated in Small basins, which show significantly higher flood risk indices compared to medium or large basins.
